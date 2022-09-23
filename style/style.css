@@ -549,8 +549,8 @@ text-align: center;
 .skills-content .right .mysql::before{
     width: 70%;
 }
-.skills-content .right .scripting::before{
-    width: 40%;
+.skills-content .right .nodeJs::before{
+    width: 70%;
 }
 
 /* teams section styling */
