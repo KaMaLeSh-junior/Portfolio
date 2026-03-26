@@ -1,58 +1,141 @@
-# Kamalesh Subramaniam - Portfolio
+# KAMALESH SUBRAMANIAM
 
-![Profile Banner](https://kamalesh-junior.github.io/Portfolio/images/banner.png)
+📍 Bengaluru, India
+📞 +91 95971 26154
+📧 [starkkamalesh@gmail.com](mailto:starkkamalesh@gmail.com)
+🔗 GitHub: https://github.com/KaMaLeSh-junior
+🔗 Portfolio: https://kamalesh-junior.github.io/Portfolio
 
-## 👋 About Me
+---
 
-Hello! I'm **Kamalesh Subramaniam**, a passionate PHP developer with experience in web development, API integration, and more. I have worked in service-based and product-based companies, honing my skills in building and integrating complex web solutions. 
+## 🧑‍💻 SUMMARY
 
-- 🌍 Based in Coimbatore, India
-- 🎓 **B.Sc in Physics** from Dr. NGP Arts and Science College
-- 🛠️ Specializing in PHP, Node.js, MySQL, and various web technologies.
-- 📫 Reach me at: [starkkamalesh@gmail.com](mailto:starkkamalesh@gmail.com)
+Backend-focused Software Engineer with 4+ years of experience building scalable enterprise applications and backend systems. Strong expertise in Node.js, React, and API-driven architectures. Experienced in CI/CD pipelines, containerized deployments, and Oracle/PostgreSQL databases. Passionate about backend architecture, system design, and high-performance applications.
 
-## 🔧 Skills
+---
 
-- **Languages**: PHP, JavaScript, MySQL, HTML, CSS, Bootstrap
-- **Frameworks**: Laravel, React JS, Sequelize ORM
-- **Tools**: GIT, Linux, Node.js, Auto CADD (2D Designing)
-- **Specializations**: 
-  - API Integration
-  - Payment Gateway Integration
-  - Malware Fixing
-  - Chat Bot Development
+## 💼 EXPERIENCE
 
-## 🚀 Projects
+### **Software Engineer — TCS**
 
-### [Personal Portfolio](https://kamalesh-junior.github.io/Portfolio/)
-A showcase of my work and projects.
+📍 Bengaluru, India | 🗓 Jan 2023 – Present
 
-### [Chat Bot Integration](https://github.com/kamalesh-junior/chatbot-integration)
-Built and integrated chat bots for client websites, improving customer engagement.
+* Contributed to development of **enterprise-scale production applications** using React.js and Node.js
+* Designed and implemented a **centralized logging system** to track failures and capture user activity
+* Improved system observability and reduced debugging effort using monitoring tools like Grafana
+* Built and consumed **SOAP and REST APIs** for integration with multiple enterprise systems
+* Optimized backend workflows and improved system reliability through effective debugging and issue resolution
+* Managed large-scale data operations using **Oracle Database**
+* Containerized applications using **Docker**, ensuring consistent deployment environments
+* Automated build and deployment pipelines using **Jenkins and Ansible**
+* Collaborated in agile teams to deliver high-quality production features and resolve critical issues
 
-### Payment Gateway Integration
-Worked on various payment gateways to ensure seamless transactions on e-commerce platforms.
+---
 
-## 🎓 Certifications
-- **Web Development** (HTML, CSS, JS, PHP, MySQL)
-- **Internship in Web Development** from Appin Technology Lab
+### **Software Developer — Verbinden Communications**
 
-## 🏆 Achievements
-- **Malware Deduction**: Identified and fixed SEO malware affecting web applications.
+📍 Bengaluru, India | 🗓 Apr 2022 – Sep 2022
 
-## 💼 Work Experience
+* Developed full-stack applications using **Node.js, Laravel, and React.js**
+* Built **real-time systems using Socket.io** for interactive applications
+* Implemented secure authentication using **JWT** and integrated third-party APIs
+* Developed chatbot features and internal tool integrations
+* Integrated payment gateways and delivery systems for production applications
+* Designed scalable APIs for **React and React Native applications**
 
-- **Developer at Verbinden Communication**  
-  April 2022 - Present | Bangalore, India  
-  *Key contributions*: Malware fixing, API integration for SPA, Payment gateway integration, etc.
+---
 
-- **Associate Developer at POFI Technologies**  
-  February 2021 - February 2022 | Coimbatore, India  
-  *Key contributions*: Payment Gateway integrations, API for Android and iOS, client meetings.
+### **Associate Software Developer — POFI Technologies**
 
-## 📞 Contact
+📍 Coimbatore, India | 🗓 Feb 2021 – Mar 2022
 
-- **Email**: [starkkamalesh@gmail.com](mailto:starkkamalesh@gmail.com)
-- **LinkedIn**: [Kamalesh Subramaniam](https://linkedin.com/in/kamalesh-subramaniam)
-- **Instagram**: [Designing Junior](https://instagram.com/designing_junior)
+* Built backend systems using **Node.js and Laravel** for scalable web applications
+* Developed REST APIs for mobile applications (Android & iOS)
+* Integrated **Stripe payment gateway** and third-party authentication systems
+* Delivered multiple production applications including:
 
+  * Grocery Delivery Platform (Speedly)
+  * Property Rental Platform (Closest)
+  * Car Rental Application (Grobux)
+
+---
+
+## 🛠️ TECHNICAL SKILLS
+
+**Languages:**
+JavaScript, TypeScript, Python, PHP
+
+**Backend:**
+Node.js, NestJS, Express.js, Laravel
+
+**Frontend:**
+React.js, Next.js, React Native
+
+**Databases:**
+MySQL, PostgreSQL, Oracle DB
+
+**Monitoring & Tools:**
+Grafana
+
+**DevOps & Tools:**
+Docker, Jenkins, Ansible, Git, Linux
+
+**Automation & Testing:**
+Playwright, Python
+
+**Concepts:**
+REST APIs, SOAP APIs, WebSockets
+
+---
+
+## 🚀 PROJECTS
+
+### **OPD Data Processing System**
+
+* Designed bulk data processing system using CSV/Excel uploads
+* Implemented **queue-based processing (Laravel Jobs)** for scalability
+* Generated automated validation reports and error sheets
+* Built real-time notification system using WebSockets
+
+---
+
+### **Blog API (NestJS + PostgreSQL)**
+
+* Designed modular REST API with DTO validation and clean architecture
+* Implemented slug uniqueness and optimized database queries
+
+---
+
+### **Automation Scripts (Python + Playwright)**
+
+* Built automation workflows for web scraping and repetitive tasks
+
+---
+
+### **Portfolio Website (Next.js)**
+
+* Developed SEO-friendly and responsive personal portfolio
+
+---
+
+## 🎓 EDUCATION
+
+**MBA — Project Management**
+Alagappa University | 2024
+
+**B.Sc Physics**
+Dr. NGP Arts and Science College | 2020
+
+---
+
+## 🔌 ADDITIONAL EXPERIENCE
+
+* Hands-on with **ESP32, Arduino, STM32 (IoT systems)**
+* Excel automation using PhpSpreadsheet
+* Experience with real-time systems and background job processing
+
+---
+
+## 🧠 INTERESTS
+
+System Design • Distributed Systems • DevOps • IoT • Machine Learning
