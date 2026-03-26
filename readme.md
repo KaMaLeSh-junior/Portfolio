@@ -1,160 +1,141 @@
-# 👋 Hi, I'm Kamalesh Subramaniam
+# KAMALESH SUBRAMANIAM
 
-![Profile Banner](https://kamalesh-junior.github.io/Portfolio/images/banner.png)
-
-🚀 **Software Engineer | Backend Specialist | Automation & DevOps Enthusiast**
-
----
-
-## 💡 About Me
-
-I'm a **Backend-focused Software Engineer** with experience in building scalable enterprise applications and real-time systems.
-
-* 💼 Currently working at **TCS** on production-level applications
-* ⚙️ Strong in **Node.js, NestJS, and system design concepts**
-* 🔄 Experienced in **event-driven systems (Kafka)** and logging architecture
-* 🐳 Hands-on with **Docker, Jenkins, Ansible (CI/CD & DevOps)**
-* 📊 Exploring **Power BI & data-driven applications**
-* 🔌 Passionate about **IoT, automation, and embedded systems**
-
-📍 Tamil Nadu, India
-📫 Reach me: [starkkamalesh@gmail.com](mailto:starkkamalesh@gmail.com)
+📍 Bengaluru, India
+📞 +91 95971 26154
+📧 [starkkamalesh@gmail.com](mailto:starkkamalesh@gmail.com)
+🔗 GitHub: https://github.com/KaMaLeSh-junior
+🔗 Portfolio: https://kamalesh-junior.github.io/Portfolio
 
 ---
 
-## 🧰 Tech Stack
+## 🧑‍💻 SUMMARY
 
-### 💻 Languages
-
-* JavaScript, TypeScript, Python, PHP
-
-### ⚙️ Backend
-
-* Node.js, NestJS, Express.js, Laravel
-
-### 🎨 Frontend
-
-* React.js, Next.js, React Native
-
-### 🗄️ Databases
-
-* MySQL, PostgreSQL, Oracle DB
-
-### 🔄 Event & Monitoring
-
-* Kafka, Grafana
-
-### ⚙️ DevOps & Tools
-
-* Docker, Jenkins, Ansible, Git, Linux
-
-### 🔄 Automation & Testing
-
-* Playwright, Python
-
-### 📊 BI Tools
-
-* Power BI
+Backend-focused Software Engineer with 4+ years of experience building scalable enterprise applications and backend systems. Strong expertise in Node.js, React, and API-driven architectures. Experienced in CI/CD pipelines, containerized deployments, and Oracle/PostgreSQL databases. Passionate about backend architecture, system design, and high-performance applications.
 
 ---
 
-## 🚀 Featured Projects
+## 💼 EXPERIENCE
 
-### 🔹 OPD Data Processing System
+### **Software Engineer — TCS**
 
-* Built scalable CSV/Excel processing system
-* Implemented queue-based processing using Laravel Jobs
-* Generated automated validation reports
-* Real-time notifications using WebSockets
+📍 Bengaluru, India | 🗓 Jan 2023 – Present
 
----
-
-### 🔹 Blog API (NestJS + PostgreSQL)
-
-* Designed modular REST APIs with validation
-* Implemented slug uniqueness & error handling
-
----
-
-### 🔹 Automation Scripts (Python + Playwright)
-
-* Automated web workflows and scraping tasks
+* Contributed to development of **enterprise-scale production applications** using React.js and Node.js
+* Designed and implemented a **centralized logging system** to track failures and capture user activity
+* Improved system observability and reduced debugging effort using monitoring tools like Grafana
+* Built and consumed **SOAP and REST APIs** for integration with multiple enterprise systems
+* Optimized backend workflows and improved system reliability through effective debugging and issue resolution
+* Managed large-scale data operations using **Oracle Database**
+* Containerized applications using **Docker**, ensuring consistent deployment environments
+* Automated build and deployment pipelines using **Jenkins and Ansible**
+* Collaborated in agile teams to deliver high-quality production features and resolve critical issues
 
 ---
 
-### 🔹 Portfolio Website
+### **Software Developer — Verbinden Communications**
 
-🔗 https://kamalesh-junior.github.io/Portfolio
+📍 Bengaluru, India | 🗓 Apr 2022 – Sep 2022
 
-* Built using Next.js
-* SEO-friendly and responsive
-
----
-
-## 💼 Work Experience
-
-### 🏢 Software Engineer — TCS
-
-📅 Jan 2023 – Present
-
-* Working on enterprise product applications in production
-* Built **Kafka-based logging system** for failure tracking and monitoring
-* Developed backend services using Node.js and frontend with React
-* Integrated SOAP & REST APIs
-* Worked with Oracle DB
-* Implemented CI/CD using Docker, Jenkins, and Ansible
+* Developed full-stack applications using **Node.js, Laravel, and React.js**
+* Built **real-time systems using Socket.io** for interactive applications
+* Implemented secure authentication using **JWT** and integrated third-party APIs
+* Developed chatbot features and internal tool integrations
+* Integrated payment gateways and delivery systems for production applications
+* Designed scalable APIs for **React and React Native applications**
 
 ---
 
-### 🏢 Software Developer — Verbinden Communication
+### **Associate Software Developer — POFI Technologies**
 
-📅 Apr 2022 – Sep 2022
+📍 Coimbatore, India | 🗓 Feb 2021 – Mar 2022
 
-* Full-stack development (Laravel, Node.js, React)
-* Built real-time apps using Socket.io
-* Implemented JWT authentication & integrations
+* Built backend systems using **Node.js and Laravel** for scalable web applications
+* Developed REST APIs for mobile applications (Android & iOS)
+* Integrated **Stripe payment gateway** and third-party authentication systems
+* Delivered multiple production applications including:
 
----
-
-### 🏢 Associate Developer — POFI Technologies
-
-📅 Feb 2021 – Mar 2022
-
-* Backend development using Node.js & Laravel
-* Built APIs for mobile applications
-* Integrated payment gateways
+  * Grocery Delivery Platform (Speedly)
+  * Property Rental Platform (Closest)
+  * Car Rental Application (Grobux)
 
 ---
 
-## 🏆 Achievements
+## 🛠️ TECHNICAL SKILLS
 
-* 🔍 Fixed SEO malware affecting production applications
-* ⚡ Built real-time logging and monitoring system using Kafka
-* 📦 Developed scalable background job processing systems
+**Languages:**
+JavaScript, TypeScript, Python, PHP
 
----
+**Backend:**
+Node.js, NestJS, Express.js, Laravel
 
-## 🎓 Education
+**Frontend:**
+React.js, Next.js, React Native
 
-* 🎓 MBA (Project Management) – Alagappa University (2024)
-* 🎓 B.Sc Physics – Dr. NGP Arts and Science College (2020)
+**Databases:**
+MySQL, PostgreSQL, Oracle DB
 
----
+**Monitoring & Tools:**
+Grafana
 
-## 📈 Currently Learning
+**DevOps & Tools:**
+Docker, Jenkins, Ansible, Git, Linux
 
-* System Design
-* Kubernetes & Terraform
-* Machine Learning basics
-* Advanced IoT systems
+**Automation & Testing:**
+Playwright, Python
 
----
-
-## 📫 Connect With Me
-
-* 🔗 GitHub: https://github.com/KaMaLeSh-junior
-* 💼 LinkedIn: https://linkedin.com/in/kamalesh-subramaniam
+**Concepts:**
+REST APIs, SOAP APIs, WebSockets
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*
+## 🚀 PROJECTS
+
+### **OPD Data Processing System**
+
+* Designed bulk data processing system using CSV/Excel uploads
+* Implemented **queue-based processing (Laravel Jobs)** for scalability
+* Generated automated validation reports and error sheets
+* Built real-time notification system using WebSockets
+
+---
+
+### **Blog API (NestJS + PostgreSQL)**
+
+* Designed modular REST API with DTO validation and clean architecture
+* Implemented slug uniqueness and optimized database queries
+
+---
+
+### **Automation Scripts (Python + Playwright)**
+
+* Built automation workflows for web scraping and repetitive tasks
+
+---
+
+### **Portfolio Website (Next.js)**
+
+* Developed SEO-friendly and responsive personal portfolio
+
+---
+
+## 🎓 EDUCATION
+
+**MBA — Project Management**
+Alagappa University | 2024
+
+**B.Sc Physics**
+Dr. NGP Arts and Science College | 2020
+
+---
+
+## 🔌 ADDITIONAL EXPERIENCE
+
+* Hands-on with **ESP32, Arduino, STM32 (IoT systems)**
+* Excel automation using PhpSpreadsheet
+* Experience with real-time systems and background job processing
+
+---
+
+## 🧠 INTERESTS
+
+System Design • Distributed Systems • DevOps • IoT • Machine Learning
