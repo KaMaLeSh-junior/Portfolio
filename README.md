@@ -90,6 +90,11 @@ REST APIs, SOAP APIs, WebSockets
 
 ## 🚀 PROJECTS
 
+### **Event Planner Application:**
+* Built a scalable event booking system with calendar-based scheduling, dynamic slot availability, and real-time booking validation.
+* Designed backend APIs for managing time slots, ticket limits, and user bookings, ensuring high reliability and seamless user experience.
+* QR Based approval and data processing easy to integrate with IOT gateways.
+
 ### **OPD Data Processing System**
 
 * Designed bulk data processing system using CSV/Excel uploads
