@@ -95,6 +95,8 @@ REST APIs, SOAP APIs, WebSockets
 * Designed backend APIs for managing time slots, ticket limits, and user bookings, ensuring high reliability and seamless user experience.
 * QR Based approval and data processing easy to integrate with IOT gateways.
 
+---
+
 ### **OPD Data Processing System**
 
 * Designed bulk data processing system using CSV/Excel uploads
