@@ -121,10 +121,8 @@ REST APIs, SOAP APIs, WebSockets
 ## 🎓 EDUCATION
 
 **MBA — Project Management**
-Alagappa University | 2024
 
 **B.Sc Physics**
-Dr. NGP Arts and Science College | 2020
 
 ---
 
